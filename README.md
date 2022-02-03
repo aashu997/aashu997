@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Aashu Attri
+- 👀 I’m interested in learning Data analytics skills
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on any project that will improve my skill
+- 📫 How to reach me aashu.attri2690@gmail.com
